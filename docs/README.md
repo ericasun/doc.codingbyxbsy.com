@@ -14,8 +14,12 @@ docsify init docs
 docsify serve docs
 ```
 
-# 访问地址 
+# 本地访问地址 
 ```
 http://localhost:3000
 ```
 
+# docsify 官方文档
+```
+https://docsify.js.org/#/zh-cn/quickstart
+```
